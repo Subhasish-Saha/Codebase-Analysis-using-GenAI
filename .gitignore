@@ -162,3 +162,4 @@ cython_debug/
 
 research/test_repo/*
 research/data/*
+db
