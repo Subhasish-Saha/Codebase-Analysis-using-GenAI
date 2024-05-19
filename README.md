@@ -4,7 +4,7 @@
 ### Steps 1 :
 
 Clone the repository :
-> git clone https://github.com/Subhasish-Saha/Llama2-Training-on-CPU.git
+> git clone https://github.com/Subhasish-Saha/Codebase-Analysis-using-GenAI.git
 
 ### Step 2 :
 
